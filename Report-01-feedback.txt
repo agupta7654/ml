@@ -1,0 +1,29 @@
+81.1% of your data is DC. Accuracy of 88% is not much more than trivial - dont get
+
+" My next idea is to make the two categories the same size by taking a random 389 values from the DC"
+ -- didnt this idea have BY FAR the best confusion matrix?
+
+
+
+
+
+
+* look up MCC and F1 scores!
+
+
+
+
+
+no intro - done
+describe data - done
+why drop? - done
+
+High -- TFIDF score!! Top 10 most frequently occurring terms in Marvel movies:
+ -- does this list consider TFIDF score or just frequency? explanation is unclear  -  go back to this
+
+try to label 'marvel'/'dc' and not 0/1 on graph if possible?
+
+very good post analysis -- trying to get to the bottom of this
+
+overall, i would deal with the data imbalance first and go from there. there are techniques beyond what you tried here but just using a balanced training set is good -- did you try the model trained on the BALANCED dataset out on the FULL test set? Would be interesting to see how that does? (So it's learning on a fraction of the data but we try it out on all the data)
+come back to this
