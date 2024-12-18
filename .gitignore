@@ -1,5 +1,5 @@
 env/
-.csv
-.pdf
+*.csv
+*.pdf
 Report-02-data/
-PhysicsExtraCredit.pdf
+.vscode/
