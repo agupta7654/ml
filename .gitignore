@@ -3,3 +3,5 @@ env/
 *.pdf
 Report-02-data/
 .vscode/
+.cph
+
