@@ -4,4 +4,6 @@ env/
 Report-02-data/
 .vscode/
 .cph
-
+*.class
+tf-env/
+.ipynb_checkpoints/
