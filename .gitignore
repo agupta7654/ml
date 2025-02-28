@@ -7,3 +7,6 @@ Report-02-data/
 *.class
 tf-env/
 .ipynb_checkpoints/
+*.json
+*.png
+fashion_mnist/
