@@ -10,3 +10,6 @@ tf-env/
 *.json
 *.png
 fashion_mnist/
+._*
+genres*
+
